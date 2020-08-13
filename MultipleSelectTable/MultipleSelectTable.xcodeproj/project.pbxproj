@@ -120,6 +120,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -276,7 +277,7 @@
 				DEVELOPMENT_TEAM = AQC4Z87TNH;
 				INFOPLIST_FILE = MultipleSelectTable/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.zhaoyongjie.MultipleSelectTable;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Ning.MultipleSelectTable;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -288,7 +289,7 @@
 				DEVELOPMENT_TEAM = AQC4Z87TNH;
 				INFOPLIST_FILE = MultipleSelectTable/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.zhaoyongjie.MultipleSelectTable;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Ning.MultipleSelectTable;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -312,6 +313,7 @@
 				082CFD6F1F2B430000F933A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  MultipleSelectTable
 //
-//  Created by 赵永杰 on 2017/7/28.
-//  Copyright © 2017年 zhaoyongjie. All rights reserved.
+//  Created by Ning on 2017/7/28.
+//  Copyright © 2017年 Ning. All rights reserved.
 //
 
 #import "AppDelegate.h"
